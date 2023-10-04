@@ -1,5 +1,9 @@
-# Sentiment-Analysis-with-ML-models
+# Sentiment Analysis with ML Models
 
-Sentiment Analysis is an application of Natural Language Processing (NLP) which deals with text classification. This methodology classifies the text into various sentiments e.g., Positive or Negative, Happy, Sad or Neutral. The goal of this technique is to extract the underlying sentiment of a text that has been used in different social media platforms. This technique can also be said to be as Opinion Mining.
+Sentiment Analysis, a branch of Natural Language Processing (NLP), involves text classification to determine sentiments such as positive, negative, happy, sad, or neutral within text data. Its goal is to discern the underlying sentiment in text, commonly found in social media and other platforms, a field also known as Opinion Mining.
 
-This program depicts the exloration of sentiment analysis with Text Blob, Vader and Bag of Words Vectorization-based Models. The data which has been used in this project can be found in kaggle: https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis?resource=download&select=data.csv
+## Project Overview
+
+This program explores sentiment analysis using Text Blob, Vader, and Bag of Words Vectorization-based models. The dataset used in this project is available on Kaggle: [Financial Sentiment Analysis Dataset](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis?resource=download&select=data.csv).
+
+Feel free to dive into this project to understand how various ML models can be applied to sentiment analysis in the context of financial data.
